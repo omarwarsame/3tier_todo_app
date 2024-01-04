@@ -50,7 +50,8 @@ It can insert data, update data and delete data
 2. Database Host
 3. Database Username
 4. Database Password
----Link it with MSQL---
+
+Link it with MSQL
 phpMyAdmiin is a Database management tool.
 
 
