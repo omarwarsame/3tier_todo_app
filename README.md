@@ -5,7 +5,7 @@
 # 3 Tier Todo App
 
 ***
-$${\color{yellow}## PHP To-do application requirements}$$
+$${\color{yellow}PHP To-do application requirements}$$
 
 ## PHP To-do application requirements
 This app will require database and database management tool
