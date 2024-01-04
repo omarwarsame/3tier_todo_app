@@ -3,10 +3,9 @@
 
 
 ## PHP To-do application requirements
-1. Database
-2. DB Management tool
+This app will require database and database management tool
 
-### What this app can do
+## What this app can do
 It can insert data, update data and delete data
 _________________________________________________________________________________________________________
 
