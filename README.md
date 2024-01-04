@@ -38,9 +38,9 @@ It can insert data, update data and delete data
 2. Username
 3. Password
 
-_Database Name = sqldb_
-_Database User = root_
-_Root Password = rootpassword_
+_Database Name = sqldb_.
+_Database User = root_.
+_Root Password = rootpassword_.
 
 
 ### STEP 2:
@@ -52,7 +52,7 @@ _Root Password = rootpassword_
 4. Database Password
 
 Link it with MSQL
-phpMyAdmiin is a Database management tool.
+phpMyAdmin is a Database management tool.
 
 
 ### STEP 3:
