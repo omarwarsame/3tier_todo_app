@@ -5,7 +5,7 @@
 # 3 Tier Todo App
 
 ***
-$${\color{red}PHP \space To-do \space application \space requirements \space \color {yellow} }$$
+$${\color{red}PHP \space To-do \space Application \space requirements \space \color{yellow} }$$
 ***
 
 ## PHP To-do application requirements
