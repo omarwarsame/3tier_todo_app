@@ -21,13 +21,13 @@ It can insert data, update data and delete data
 2. Secret
 3. ClusterIP Service
 
-### PHPMYADMIN POD
+!### PHPMYADMIN POD
 #### Required
 1. ConfigMap
 2. Secret
 3. NodePort Service
 
-### PHP Todo App POD
+### !PHP Todo App POD
 #### Required
 1. NodePort Service
 ***
