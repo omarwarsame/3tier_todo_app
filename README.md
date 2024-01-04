@@ -58,7 +58,7 @@ phpMyAdmiin is a Database management tool.
 2. Database Host
 3. Database User
 4. User Password
----Link it with MYSQL---
+<u>Link it with MYSQL</u>
 
 
 
