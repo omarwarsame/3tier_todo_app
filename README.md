@@ -7,9 +7,8 @@
 2. DB Management tool
 
 ### What this app can do
-1. Insert data
-2. Update data
-3. Delete data
+It can insert data, update data and delete data
+_________________________________________________________________________________________________________
 
 # Kubernetes
 ## MYSQL POD
