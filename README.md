@@ -1,5 +1,5 @@
-[My GitHub](https://github.com/omarwarsame)
-[My LinkedIn](https://www.linkedin.com/in/owarsame/)
+# [My GitHub](https://github.com/omarwarsame)
+# [My LinkedIn](https://www.linkedin.com/in/owarsame/)
 
 # 3 Tier Todo App
 
