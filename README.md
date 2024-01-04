@@ -30,15 +30,36 @@ _________________________________________________________________
 ## DEPLOYMENT PROCESS
 ### Step 1:
 #### MYSQL POD
+##### Parameters Required:
+1. Database Name
+2. Username
+3. Password
+
+   Database Name = sqldb
+   Database User = root
+   Root Password = rootpassword
 
 
-
-## STEP 2:
-### PHPMYADMIN POD
+### STEP 2:
+#### PHPMYADMIN POD
+##### Parameters Required:
+1. Database Name
+2. Database Host
+3. Database Username
+4. Database Password
+___Link it with MSQL___
+phpMyAdmiin is a Database management tool.
 
 
 ## STEP 3:
 ### PHP To-Do App POD
+#### PHP To-Do App POD
+##### Parameters Required:
+1. Database Name
+2. Database Host
+3. Database User
+4. User Password
+___Link it with MYSQL
 
 
 
