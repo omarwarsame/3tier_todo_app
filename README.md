@@ -60,5 +60,8 @@ phpMyAdmiin is a Database management tool.
 Link it with MYSQL
 
 ***
+```
+try ssh
+```
 
 
