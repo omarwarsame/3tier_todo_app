@@ -3,6 +3,9 @@
 ### [Drop me a line](mailto:jubawarsame@gmail.com)
 ### [My Resume](https://devsom.co.uk/)
 # 3 Tier Todo App
+
+| [My GitHub]| [My LinkedIn]|[Drop me a line]|[My Resume]|
+|(https://github.com/omarwarsame)|(https://www.linkedin.com/in/owarsame/)|(mailto:jubawarsame@gmail.com)|(https://devsom.co.uk/)|
 ***
 
 
