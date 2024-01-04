@@ -3,9 +3,6 @@
 ### [Drop me a line](mailto:jubawarsame@gmail.com)
 ### [My Resume](https://devsom.co.uk/)
 # 3 Tier Todo App
-
-***
-$${\color{yello}PHP \space To-do \space Application \space requirements }$$
 ***
 
 ## PHP To-do application requirements
