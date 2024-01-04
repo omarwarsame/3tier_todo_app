@@ -64,8 +64,7 @@ phpMyAdmin is a Database management tool.
 4. User Password.
 Link it with MYSQL
 
-***
-***
+
 ***
 > "Live as if you were to die tomorrow. Learn as if you were to live forever." – Mahatma Gandhi
 
