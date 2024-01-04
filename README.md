@@ -38,9 +38,9 @@ It can insert data, update data and delete data
 2. Username
 3. Password
 
-   Database Name = sqldb
-   Database User = root
-   Root Password = rootpassword
+Database Name = sqldb
+Database User = root
+Root Password = rootpassword
 
 
 ### STEP 2:
