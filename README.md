@@ -51,8 +51,7 @@ ___Link it with MSQL___
 phpMyAdmiin is a Database management tool.
 
 
-## STEP 3:
-### PHP To-Do App POD
+### STEP 3:
 #### PHP To-Do App POD
 ##### Parameters Required:
 1. Database Name
